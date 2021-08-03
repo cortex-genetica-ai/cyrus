@@ -1,2 +1,2 @@
-# cyrus (Offical release of Genetica.ai Cortex)
+# Cyrus (Offical release of Genetica.ai Cortex)
 
